@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Unc0ver",
+        "subtitle": "Open In AltStore",
+        "icon": "https://app.eonhubapp.com/img/unc0ver.png",
+        "url": "altstore://install?url=https://cdn.eonhubapp.com/altstore/unc0ver.ipa"
+    },
+    {
+        "title": "Taurine",
+        "subtitle": "Open In AltStore",
+        "icon": "https://app.eonhubapp.com/img/taurine.png",
+        "url": "altstore://install?url=https://cdn.eonhubapp.com/altstore/taurine.ipa"
+    },
+    {
+        "title": "Reicast",
+        "subtitle": "Open In AltStore",
+        "icon": "https://onuniverse-assets.imgix.net/d640809c-ecd9-47ba-b1d4-415262d80165.jpg?fit=crop&auto=compress%2Cformat&q=65&w=142&h=133.984375&ixlib=js-2.2.0",
+        "url": "altstore://install?url=https://cdn.eonhubapp.com/altstore/reicast.ipa"
+    },
+    {
+        "title": "ReKarios",
+        "subtitle": "Open In AltStore",
+        "icon": "https://onuniverse-assets.imgix.net/7a361f70-1c1a-454b-aa6c-bdc2bbff5fb3.jpg?fit=crop&auto=compress%2Cformat&q=65&w=142&h=133.984375&ixlib=js-2.2.0",
+        "url": "altstore://install?url=https://cdn.eonhubapp.com/altstore/rekarios.ipa"
+    }
+]
