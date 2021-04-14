@@ -1,0 +1,68 @@
+[
+  {
+        "title": "InstaHub",
+        "subtitle": "v1.0",
+        "icon": "https://use.instahub.app/assets/icons/logo.png",
+        "url": "http://use.instahub.app/InstaHub.mobileconfig"
+		},
+    {
+        "title": "PPSSPP",
+        "subtitle": "v1.0",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/1200px-PPSSPP_logo.svg.png",
+        "url": "itms-services://?action=download-manifest&url=https://instahub.app/plists/ppsspp.plist"
+    },
+    {
+        "title": "INDS",
+        "subtitle": "v1.10.8",
+        "icon": "https://68.media.tumblr.com/13f0eb88117cead5ba3bcc221e83da43/tumblr_nzqr8yduL51t0wlalo1_540.png",
+        "url": "itms-services://?action=download-manifest&url=https://instahub.app/plists/inds.plist"
+    },
+    {
+        "title": "LumaFusion",
+        "subtitle": "InstaHub App",
+        "icon": "https://use.instahub.app/assets/icons/lumafusion.jpg",
+        "url": "itms-services://?action=download-manifest&amp;url=https://instahub.app/plists/lumafusion.plist"
+    },
+    {
+        "title": "Picsart",
+        "subtitle": "InstaHub App",
+        "icon": "https://i.ibb.co/5r2BKqk/picsart.png",
+        "url": "itms-services://?action=download-manifest&url=https://instahub.app/plists/picsart.plist"
+    },
+    {
+        "title": "Taurine",
+        "subtitle": "v1.0.2",
+        "icon": "https://pbs.twimg.com/profile_images/1378419879078924294/Yvzi5TTi_400x400.jpg",
+        "url": "itms-services://?action=download-manifest&url=https://instahub.app/plists/taurine.plist"
+    },
+    {
+        "title": "Spotify Ult++",
+        "subtitle": "v8.5.52",
+        "icon": "https://i.ibb.co/9nvnQM4/2438-D397-E474-4479-815-E-A67-ACF68-D7-DF.png",
+        "url": "itms-services://?action=download-manifest&url=https://instahub.app/plists/spotify.plist"
+   },
+   {
+        "title": "ReKairos",
+        "subtitle": "v16.0.2.12",
+        "icon": "https://use.instahub.app/assets/icons/rekairos.PNG",
+        "url": "itms-services://?action=download-manifest&amp;url=https://instahub.app/plists/rekairos.plist"
+    },
+    {
+        "title": "iTorrent",
+        "subtitle": "v1.8.3",
+        "icon": "https://use.instahub.app/assets/icons/itorrent.jpg",
+        "url": "itms-services://?action=download-manifest&amp;url=https://instahub.app/plists/itorrent.plist"
+    },
+    {
+        "title": "iPogo",
+        "subtitle": "InstaHub App",
+        "icon": "https://img.appvalley.vip/appValley-pic/appImg_1553174817281.png",
+        "url": "itms-services://?action=download-manifest&url=https://instahub.app/plists/ipogo.plist"
+    },
+    {
+        "title": "Last Day On Earth - Hack",
+        "subtitle": "InstaHub App",
+        "icon": "https://storage.ihvn.dev/icons/apps/ldoe.jpg",
+        "url": "itms-services://?action=download-manifest&amp;url=https%3A%2F%2Ftutubox.io%2Fplists%2FLodging%2FLastDayOnEarthSurvivalHack.plist"
+    }
+ ]
