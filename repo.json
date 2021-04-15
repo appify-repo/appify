@@ -1,26 +1,28 @@
-[
+{
+  "info":[
+{
+    "name":"Repo Name",
+    "icon":"https://example.com/icon.png"
+}
+  ],
+  "apps":[
     {
-        "title": "Unc0ver",
-        "subtitle": "Open In AltStore",
-        "icon": "https://app.eonhubapp.com/img/unc0ver.png",
-        "url": "altstore://install?url=https://cdn.eonhubapp.com/altstore/unc0ver.ipa"
+      "title":"OTA Apps",
+      "subtitle":"Your Description",
+      "icon":"https://app.eonhubapp.com/img/icon.png",
+      "url":"itms-services://?action=download-manifest&url=https://repo.eonhubapp.com/plists/app.plist"
     },
     {
-        "title": "Taurine",
-        "subtitle": "Open In AltStore",
-        "icon": "https://app.eonhubapp.com/img/taurine.png",
-        "url": "altstore://install?url=https://cdn.eonhubapp.com/altstore/taurine.ipa"
+      "title":"Web App",
+      "subtitle":"Your Description",
+      "icon":"https://app.eonhubapp.com/img/icon.png",
+      "url":"https://app.eonhubapp.com"
     },
     {
-        "title": "Reicast",
-        "subtitle": "Open In AltStore",
-        "icon": "https://onuniverse-assets.imgix.net/d640809c-ecd9-47ba-b1d4-415262d80165.jpg?fit=crop&auto=compress%2Cformat&q=65&w=142&h=133.984375&ixlib=js-2.2.0",
-        "url": "altstore://install?url=https://cdn.eonhubapp.com/altstore/reicast.ipa"
-    },
-    {
-        "title": "ReKarios",
-        "subtitle": "Open In AltStore",
-        "icon": "https://onuniverse-assets.imgix.net/7a361f70-1c1a-454b-aa6c-bdc2bbff5fb3.jpg?fit=crop&auto=compress%2Cformat&q=65&w=142&h=133.984375&ixlib=js-2.2.0",
-        "url": "altstore://install?url=https://cdn.eonhubapp.com/altstore/rekarios.ipa"
+      "title":"AltStore App",
+      "subtitle":"Your Description",
+      "icon":"https://app.eonhubapp.com/img/icon.png",
+      "url":"altstore://install?url=https://eonhubapp.com/altstore/app.ipa"
     }
-]
+  ]
+}
