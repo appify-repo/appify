@@ -2,98 +2,98 @@
   "info":[
 {
     "name":"Appify Repo",
-    "icon":"https://appify-repo.github.io/appify/icons/icon.png"
+    "icon":"https://appify-repo.github.io/appify/icons/icon.PNG"
 }
   ],
   "apps":[
     {
       "title":"Textastic",
       "subtitle":"Paid App",
-      "icon":"https://appify-repo.github.io/appify/icons/text.png",
+      "icon":"https://appify-repo.github.io/appify/icons/text.JPG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/text.plist"
     },
     {
       "title":"PPSSPP",
       "subtitle":"Emulators",
-      "icon":"https://appify-repo.github.io/appify/icons/ppsspp.png",
+      "icon":"https://appify-repo.github.io/appify/icons/ppsspp.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/ppsspp.plist"
     },
     {
       "title":"Procreate",
       "subtitle":"Tweaked Apps",
-      "icon":"https://appify-repo.github.io/appify/icons/pro.png",
+      "icon":"https://appify-repo.github.io/appify/icons/pro.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/pro.plist"
     },
     {
       "title":"Messenger Shark",
       "subtitle":"Tweaked Apps",
-      "icon":"https://appify-repo.github.io/appify/icons/messenger.png",
+      "icon":"https://appify-repo.github.io/appify/icons/messenger.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/messenger.plist"
     },
     {
       "title":"Whatsapp++",
       "subtitle":"Tweaked Apps",
-      "icon":"https://appify-repo.github.io/appify/icons/whats.png",
+      "icon":"https://appify-repo.github.io/appify/icons/whats.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/whats.plist"
     },
     {
       "title":"Snalchat++",
       "subtitle":"Tweaked Apps",
-      "icon":"https://appify-repo.github.io/appify/icons/snap.png",
+      "icon":"https://appify-repo.github.io/appify/icons/snap.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/snap.plist"
     },
     {
       "title":"Subway Surfers hack",
       "subtitle":"Emulators",
-      "icon":"https://appify-repo.github.io/appify/icons/ss.png",
+      "icon":"https://appify-repo.github.io/appify/icons/ss.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/ss.plist"
     },
     {
       "title":"iNDS",
       "subtitle":"Emulators",
-      "icon":"https://appify-repo.github.io/appify/icons/inds.png",
+      "icon":"https://appify-repo.github.io/appify/icons/inds.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/inds.plist"
     },
     {
       "title":"Terraria",
       "subtitle":"Paid Games",
-      "icon":"https://appify-repo.github.io/appify/icons/terraria.png",
+      "icon":"https://appify-repo.github.io/appify/icons/terraria.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/terraria.plist"
     },
     {
       "title":"Pangu",
       "subtitle":"Jailbreaks",
-      "icon":"https://appify-repo.github.io/appify/icons/pangu.png",
+      "icon":"https://appify-repo.github.io/appify/icons/pangu.JPG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/pangu.plist"
     },
     {
       "title":"Kinemaster++",
       "subtitle":"Tweaked Apps",
-      "icon":"https://appify-repo.github.io/appify/icons/kine.png",
+      "icon":"https://appify-repo.github.io/appify/icons/kine.WEBP",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/kine.plist"
     },
     {
       "title":"Unc0ver",
       "subtitle":"Jailbreaks",
-      "icon":"https://appify-repo.github.io/appify/icons/u0.png",
+      "icon":"https://appify-repo.github.io/appify/icons/u0.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/u0.plist"
     },
     {
       "title":"Hill Climb Racing hack",
       "subtitle":"Emulators",
-      "icon":"https://appify-repo.github.io/appify/icons/hcr.png",
+      "icon":"https://appify-repo.github.io/appify/icons/hcr.JPG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/hcr.plist"
     },
     {
       "title":"Spotify++",
       "subtitle":"Tweaked Apps",
-      "icon":"https://appify-repo.github.io/appify/icons/spotify.png",
+      "icon":"https://appify-repo.github.io/appify/icons/spotify.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/spotify.plist"
     },
     {
       "title":"Taurine",
       "subtitle":"Jailbreaks",
-      "icon":"https://appify-repo.github.io/appify/icons/icon.png",
+      "icon":"https://appify-repo.github.io/appify/icons/taurine.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/taurine.plist"
     }
   ]
