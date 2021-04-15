@@ -27,7 +27,7 @@
     {
       "title":"Messenger Shark",
       "subtitle":"Tweaked Apps",
-      "icon":"https://appify-repo.github.io/appify/icons/messenger.PNG",
+      "icon":"https://app.eonhubapp.com/img/messenger.png",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/messenger.plist"
     },
     {
@@ -37,7 +37,7 @@
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/whats.plist"
     },
     {
-      "title":"Snalchat++",
+      "title":"Snapchat++",
       "subtitle":"Tweaked Apps",
       "icon":"https://appify-repo.github.io/appify/icons/snap.PNG",
       "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/snap.plist"
