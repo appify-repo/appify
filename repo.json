@@ -10,19 +10,91 @@
       "title":"Textastic",
       "subtitle":"Paid App",
       "icon":"https://appify-repo.github.io/appify/icons/text.png",
-      "url":"itms-services://?action=download-manifest&url=https://repo.eonhubapp.com/plists/app.plist"
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/text.plist"
     },
     {
       "title":"PPSSPP",
       "subtitle":"Emulators",
       "icon":"https://appify-repo.github.io/appify/icons/ppsspp.png",
-      "url":"https://app.eonhubapp.com"
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/ppsspp.plist"
+    },
+    {
+      "title":"Procreate",
+      "subtitle":"Tweaked Apps",
+      "icon":"https://appify-repo.github.io/appify/icons/pro.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/pro.plist"
+    },
+    {
+      "title":"Messenger Shark",
+      "subtitle":"Tweaked Apps",
+      "icon":"https://appify-repo.github.io/appify/icons/messenger.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/messenger.plist"
+    },
+    {
+      "title":"Whatsapp++",
+      "subtitle":"Tweaked Apps",
+      "icon":"https://appify-repo.github.io/appify/icons/whats.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/whats.plist"
+    },
+    {
+      "title":"Snalchat++",
+      "subtitle":"Tweaked Apps",
+      "icon":"https://appify-repo.github.io/appify/icons/snap.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/snap.plist"
+    },
+    {
+      "title":"Subway Surfers hack",
+      "subtitle":"Emulators",
+      "icon":"https://appify-repo.github.io/appify/icons/ss.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/ss.plist"
+    },
+    {
+      "title":"iNDS",
+      "subtitle":"Emulators",
+      "icon":"https://appify-repo.github.io/appify/icons/inds.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/inds.plist"
+    },
+    {
+      "title":"Terraria",
+      "subtitle":"Paid Games",
+      "icon":"https://appify-repo.github.io/appify/icons/terraria.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/terraria.plist"
+    },
+    {
+      "title":"Pangu",
+      "subtitle":"Jailbreaks",
+      "icon":"https://appify-repo.github.io/appify/icons/pangu.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/pangu.plist"
+    },
+    {
+      "title":"Kinemaster++",
+      "subtitle":"Tweaked Apps",
+      "icon":"https://appify-repo.github.io/appify/icons/kine.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/kine.plist"
+    },
+    {
+      "title":"Unc0ver",
+      "subtitle":"Jailbreaks",
+      "icon":"https://appify-repo.github.io/appify/icons/u0.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/u0.plist"
+    },
+    {
+      "title":"Hill Climb Racing hack",
+      "subtitle":"Emulators",
+      "icon":"https://appify-repo.github.io/appify/icons/hcr.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/hcr.plist"
+    },
+    {
+      "title":"Spotify++",
+      "subtitle":"Tweaked Apps",
+      "icon":"https://appify-repo.github.io/appify/icons/spotify.png",
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/spotify.plist"
     },
     {
       "title":"Taurine",
       "subtitle":"Jailbreaks",
       "icon":"https://appify-repo.github.io/appify/icons/icon.png",
-      "url":"altstore://install?url=https://eonhubapp.com/altstore/app.ipa"
+      "url":"itms-services://?action=download-manifest&url=https://appify-repo.github.io/appify/plists/taurine.plist"
     }
   ]
 }
