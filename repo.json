@@ -1,27 +1,27 @@
 {
   "info":[
 {
-    "name":"Repo Name",
-    "icon":"https://example.com/icon.png"
+    "name":"Appify Repo",
+    "icon":"https://appify-repo.github.io/appify/icons/icon.png"
 }
   ],
   "apps":[
     {
-      "title":"OTA Apps",
-      "subtitle":"Your Description",
-      "icon":"https://app.eonhubapp.com/img/icon.png",
+      "title":"Textastic",
+      "subtitle":"Paid App",
+      "icon":"https://appify-repo.github.io/appify/icons/text.png",
       "url":"itms-services://?action=download-manifest&url=https://repo.eonhubapp.com/plists/app.plist"
     },
     {
-      "title":"Web App",
-      "subtitle":"Your Description",
-      "icon":"https://app.eonhubapp.com/img/icon.png",
+      "title":"PPSSPP",
+      "subtitle":"Emulators",
+      "icon":"https://appify-repo.github.io/appify/icons/ppsspp.png",
       "url":"https://app.eonhubapp.com"
     },
     {
-      "title":"AltStore App",
-      "subtitle":"Your Description",
-      "icon":"https://app.eonhubapp.com/img/icon.png",
+      "title":"Taurine",
+      "subtitle":"Jailbreaks",
+      "icon":"https://appify-repo.github.io/appify/icons/icon.png",
       "url":"altstore://install?url=https://eonhubapp.com/altstore/app.ipa"
     }
   ]
